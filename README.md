@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Hiren Bhavsar I am from Griffith University ✨
 
 <!--
 **HirenBP/HirenBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... 
+
 - 🌱 I’m currently learning ... Python, Data Analysis
 - 👯 I’m looking to collaborate on ... Machine Learning Models
 - 🤔 I’m looking for help with ... Learning Paths
-- 💬 Ask me about ... C#, 
+
 - 📫 How to reach me: ... hiren.keepsmiling@gmail.com 
 - ⚡ Fun fact: ... 
