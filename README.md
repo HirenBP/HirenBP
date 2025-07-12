@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiren</h1>
-<h3 align="center">A passionate developer.</h3>
+<h3 align="center">💡 Developer fueled by curiosity, exploring the intersections of AI/ML and Accessibility. Always tinkering, learning, and building thoughtful solutions that make tech more inclusive.</h3>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
